@@ -3,19 +3,27 @@
     font-size: 30;
     color: black;
     text-align: end;
+    width: 535px;
+    height: 150px;
 }
 
 .CampoEntrada {
+    margin-top: 30px;
+    margin-bottom: 30px;
     border-radius: 10;
+    width: 200px;
+    height: 50px;
     border-color: blueviolet;
     font-size: 15;
 }
 
 /* Diseño de los botones */
 .Boton {
-    flex-direction: column;
+    margin: 10px;
     border-radius: 10;
-    /* text-align: center;
-    display: grid; // Pa ver
-    grid-template-columns: repeat(5, 1fr); */
+    font-size: 15;
+    color: black;
+    background-color: bisque;
+    width: 50px;
+    height: 50px;
 }
