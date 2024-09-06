@@ -1,0 +1,21 @@
+/* Diseño del panel */
+.PanelResultado {
+    font-size: 30;
+    color: black;
+    text-align: end;
+}
+
+.CampoEntrada {
+    border-radius: 10;
+    border-color: blueviolet;
+    font-size: 15;
+}
+
+/* Diseño de los botones */
+.Boton {
+    flex-direction: column;
+    border-radius: 10;
+    /* text-align: center;
+    display: grid; // Pa ver
+    grid-template-columns: repeat(5, 1fr); */
+}
